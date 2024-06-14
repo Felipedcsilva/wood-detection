@@ -19,3 +19,11 @@ Wood detection is an Android project which built using Java and Kotlin programmi
 * Kotlin
 * TensorFlow Lite
 * Camera API
+
+
+# Let Us Know
+For more details, visit [MultiQoS.](https://multiqos.com/flutter-app-development/)
+
+Contact us for collaboration or support:
+
+Email: biz@multiqos.com
